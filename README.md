@@ -15,7 +15,7 @@ Clone the repository:
 🛠️ How to Use This Project
 
 1.Clone the repository
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
+git clone ->  https://github.com/AnilTanganiya/Customer_Behaviour_Analysis/tree/main
 cd customer-trends-data-analysis-SQL-Python-PowerBI
 
 2.Open Customer_Shopping_Behavior_Analysis.ipynb notebook
