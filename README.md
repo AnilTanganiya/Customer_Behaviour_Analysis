@@ -1,6 +1,6 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+## 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 
-📝 Overview
+## 📝 Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
@@ -12,7 +12,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 Clone the repository:
 
-🛠️ How to Use This Project
+## 🛠️ How to Use This Project
 
 1.Clone the repository
 git clone ->  https://github.com/AnilTanganiya/Customer_Behaviour_Analysis/tree/main
@@ -38,7 +38,7 @@ git clone ->  https://github.com/AnilTanganiya/Customer_Behaviour_Analysis/tree/
   Create project report
   Build presentation deck using Gamma AI
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Anil Tanganiya
 Data Analyst | SQL & Power BI Enthusiast
@@ -48,4 +48,4 @@ Data Analyst | SQL & Power BI Enthusiast
 - Let’s connect professionally and grow your data career
 
 
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo .🚀
