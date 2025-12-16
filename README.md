@@ -45,7 +45,7 @@ Data Analyst | SQL & Power BI Enthusiast
 📧 aniltanganiya1123@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/anil-tanganiya-97bab1214
-- Let’s connect professionally and grow your data career
+- Let’s connect professionally.
 
 
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo .🚀
+## 💡 Thanks for checking out the project!
